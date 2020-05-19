@@ -21,3 +21,10 @@ setTimeout(() => {
 
   console.log('John');
 }, 10);
+
+//James
+//Richard
+//John
+//Robert
+//James
+//Michael
